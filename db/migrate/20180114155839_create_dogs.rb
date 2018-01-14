@@ -9,5 +9,5 @@ end
   def down
     drop_table :dogs
   end
-  
+
 end
